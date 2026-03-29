@@ -1,0 +1,6 @@
+com\saiteja\resumeanalyzer\model\Resume$ResumeBuilder.class
+com\saiteja\resumeanalyzer\repository\ResumeRepository.class
+com\saiteja\resumeanalyzer\ResumeAnalyzerApplication.class
+com\saiteja\resumeanalyzer\service\ResumeService.class
+com\saiteja\resumeanalyzer\model\Resume.class
+com\saiteja\resumeanalyzer\util\PdfUtil.class

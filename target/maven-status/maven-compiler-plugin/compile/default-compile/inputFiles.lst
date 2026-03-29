@@ -1,0 +1,10 @@
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\controller\AnalysisController.java
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\controller\ResumeController.java
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\dto\AnalysisRequest.java
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\dto\AnalysisResponse.java
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\model\Resume.java
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\repository\ResumeRepository.java
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\ResumeAnalyzerApplication.java
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\service\AnalysisService.java
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\service\ResumeService.java
+C:\Users\saite\resume_analyzer\src\main\java\com\saiteja\resumeanalyzer\util\PdfUtil.java
