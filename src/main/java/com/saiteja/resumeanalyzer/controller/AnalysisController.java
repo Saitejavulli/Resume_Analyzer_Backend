@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/analysis")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://resume-analyzer-frontend-jet.vercel.app")
 public class AnalysisController {
 
     private final AnalysisService analysisService;
